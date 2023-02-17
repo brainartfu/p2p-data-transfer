@@ -1,5 +1,3 @@
-<div align="center">
-
 Guide for local deployment -
 
 1. Clone the repository
